@@ -1,14 +1,15 @@
 /** Factors Finder **/
 
 #include<stdlib.h>
+#include<stdio.h>
 
-main()
+int main()
 {
 	int n, i;
-	system("cls");
+	// system("cls");
 	printf("Enter any number:");
 	scanf("%d", &n);
-	system("cls");
+	// system("cls");
 	printf("\n\tFactors of %d are =  {", n);
 	for(i=1;i<=n/2;i++)
 	{
@@ -18,4 +19,6 @@ main()
 		}
 	}
 	printf("%d}", n);
+
+	return 0;
 }
