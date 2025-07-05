@@ -1,5 +1,9 @@
 # Factors_Finder
 
+![CI](https://github.com/silven-mohan/Factors_Finder/actions/workflows/.github/workflows/main.yml/badge.svg)
+
+-----
+
 This program takes a number from the user and prints all its factors in a formatted list. It's a beginner-friendly C project that uses a `for` loop and conditional logic.
 
 ### ✅ Features
