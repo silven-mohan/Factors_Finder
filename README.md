@@ -13,4 +13,9 @@ Enter any number 12:
 Factors of 12 are = {1, 2, 3, 4, 6, 12}
 ```
 
+## 📃License
+
+  See included [LICENSE](./LICENSE) file for more details.
+
+
 ## Author-Silven Mohan
